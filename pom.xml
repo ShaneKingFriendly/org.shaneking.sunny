@@ -9,14 +9,14 @@
     <relativePath>../org.shaneking</relativePath>
   </parent>
 
-  <groupId>org.shaneking.james</groupId>
-  <artifactId>org.shaneking.james</artifactId>
+  <groupId>org.shaneking.sunny</groupId>
+  <artifactId>org.shaneking.sunny</artifactId>
   <version>0.241.1.1-SNAPSHOT</version>
   <packaging>pom</packaging>
 
-  <name>org.shaneking.james</name>
+  <name>org.shaneking.sunny</name>
   <description>ShaneKing Java Swing Library</description>
-  <url>https://github.com/ShaneKingOrg/org.shaneking.james</url>
+  <url>https://github.com/ShaneKingOrg/org.shaneking.sunny</url>
   <inceptionYear>2011-2021</inceptionYear>
 
   <organization>
@@ -78,17 +78,17 @@
   </contributors>
 
   <scm>
-    <connection>scm:git:git@github.com:ShaneKingOrg/org.shaneking.james.git</connection>
-    <developerConnection>scm:git:git@github.com:ShaneKingOrg/org.shaneking.james.git</developerConnection>
-    <url>https://github.com/ShaneKingOrg/org.shaneking.james</url>
+    <connection>scm:git:git@github.com:ShaneKingOrg/org.shaneking.sunny.git</connection>
+    <developerConnection>scm:git:git@github.com:ShaneKingOrg/org.shaneking.sunny.git</developerConnection>
+    <url>https://github.com/ShaneKingOrg/org.shaneking.sunny</url>
   </scm>
   <issueManagement>
     <system>Github</system>
-    <url>https://github.com/ShaneKingOrg/org.shaneking.james/issues</url>
+    <url>https://github.com/ShaneKingOrg/org.shaneking.sunny/issues</url>
   </issueManagement>
   <ciManagement>
     <system>Travis-CI</system>
-    <url>https://travis-ci.org/ShaneKingOrg/org.shaneking.james</url>
+    <url>https://travis-ci.org/ShaneKingOrg/org.shaneking.sunny</url>
   </ciManagement>
 
   <properties>

@@ -1,3 +1,3 @@
-# org.shaneking.james
+# org.shaneking.sunny
 
 ShaneKing Java Swing Library
