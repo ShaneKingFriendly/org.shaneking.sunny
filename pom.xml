@@ -15,7 +15,7 @@
 
   <name>org.shaneking.sunny</name>
   <description>ShaneKing Java Swing Library</description>
-  <url>https://github.com/ShaneKingOpen/org.shaneking.sunny</url>
+  <url>https://github.com/ShaneKingFriendly/org.shaneking.sunny</url>
   <inceptionYear>2011-2021</inceptionYear>
 
   <organization>
@@ -79,15 +79,15 @@
   <scm>
     <connection>scm:git:git@github.com:ShaneKingOrg/org.shaneking.sunny.git</connection>
     <developerConnection>scm:git:git@github.com:ShaneKingOrg/org.shaneking.sunny.git</developerConnection>
-    <url>https://github.com/ShaneKingOpen/org.shaneking.sunny</url>
+    <url>https://github.com/ShaneKingFriendly/org.shaneking.sunny</url>
   </scm>
   <issueManagement>
     <system>Github</system>
-    <url>https://github.com/ShaneKingOpen/org.shaneking.sunny/issues</url>
+    <url>https://github.com/ShaneKingFriendly/org.shaneking.sunny/issues</url>
   </issueManagement>
   <ciManagement>
     <system>Travis-CI</system>
-    <url>https://travis-ci.org/ShaneKingOpen/org.shaneking.sunny</url>
+    <url>https://travis-ci.org/ShaneKingFriendly/org.shaneking.sunny</url>
   </ciManagement>
 
   <properties>
